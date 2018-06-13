@@ -1,2 +1,2 @@
-usage: gcc 7.0
-make all
+usage: gcc 7.x
+make 
